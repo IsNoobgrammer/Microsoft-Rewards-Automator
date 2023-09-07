@@ -23,13 +23,13 @@ This Python script automates your Bing searches, so you can sit back and watch t
 
 2. Make sure you have Python installed. If not, you can download it from [Python's official website](https://www.python.org/downloads/). 🐍
 
-3. Navigate to the project directory using your terminal or command prompt.
+3. Run ```pip install -r requirements.txt``` to install project dependencies.
 
-4. Run `add_to_startup.py` For making the script run on boot everytime.
+5. Run `add_to_startup.py` For making the script run on boot everytime.
 
-5. Run `main.py` for direct access to script.
+6. Run `main.py` for direct access to script.
 
-6. Now, every time your computer boots, the script will automatically start running in the background. 🚀
+7. Now, every time your computer boots, the script will automatically start running in the background. 🚀
 
 ## Benefits 🎉
 
